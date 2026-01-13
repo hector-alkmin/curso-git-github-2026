@@ -5,3 +5,8 @@ esse arquivo contém comandos secundários de git
 
 #comandos mais genéricos
 - Comandos estranhos
+
+#Mais comandos !!
+fieofnen
+einiwe
+evwinv
