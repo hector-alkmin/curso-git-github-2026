@@ -8,3 +8,9 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Também vamos trabalhar com GitFlow e VScode
 
+
+
+Pessoas participantes:
+- Téo
+- Eqto
+
